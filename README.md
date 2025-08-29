@@ -75,16 +75,15 @@ Watch the simulation video:
 
 ## 📱 supabase Screens  
  
-- **Login Screen**  
+ 
   ![Screen 1](screen1.jpg)  
 
-- **Dashboard**  
+
   ![Screen 2](screen2.jpg)  
 
-- **Alerts Page**  
   ![Screen 3](screen3.jpg)  
 
-- **Sensor Logs**  
+
   ![Screen 4](screen4.jpg)  
 
 ---
