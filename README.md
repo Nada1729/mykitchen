@@ -4,11 +4,14 @@ An IoT-based solution for kitchen safety that monitors gas, flame, and temperatu
 
 ---
 
+## 📑 Project Report
+📄 [TEAM 10 Project Report (PDF)](TEAM%2010.pdf)
+
+---
+
 ## 📊 Project Presentation
 📄 [View Presentation (PDF)](presentation.pdf)
----
-## 📊 Project report
-📄 [View Report (PDF)](TEAM 10.pdf)
+
 ---
 
 ## 🖼️ Circuit Design
@@ -77,5 +80,3 @@ Visualization of Node-RED integration:
 - **Node-RED & Grafana**  
 - **Supabase (Auth & Database)**  
 - **Flutter (Mobile App)**  
-
----
