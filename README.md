@@ -6,7 +6,7 @@ An IoT-based solution for kitchen safety that monitors gas, flame, and temperatu
 
 ## 📊 Project Presentation
 📄 [View Presentation (PDF)](presentation.pdf)
-
+📄 [View Report (PDF)](TEAM.pdf)
 ---
 
 ## 🖼️ Circuit Design
