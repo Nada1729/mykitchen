@@ -73,9 +73,8 @@ Watch the simulation video:
 
 ---
 
-## 📱 Mobile App Screens  
-
-### Screenshots of the Flutter App:  
+## 📱 supabase Screens  
+ 
 - **Login Screen**  
   ![Screen 1](screen1.jpg)  
 
@@ -129,4 +128,11 @@ Visualization of Node-RED integration:
 - ✅ Gas, Flame, and Temperature Monitoring  
 - ✅ Real-time Alerts  
 - ✅ Remote Door Control  
-- ✅ Dashboard with Logs & History  
+- ✅ Dashboard with Logs & History
+
+## 🎥 Demo Videos
+- [▶️ Demo Video 1](de.mp4)  
+- [▶️ Demo Video 2](dem.mp4)  
+- [▶️ Demo Video 3](demo3.mp4)  
+
+---
